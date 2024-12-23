@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <info@qpas.co.uk>\nDelivered-To: zzzz@localhost.example.com\nReceived: from localhost (localhost [127.0.0.1])\tby phobos.labs.example.com (Postfix) with ESMTP id 254D743F99\tfor <zzzz@localhost>; Mon,  2 Sep 2002 07:30:08 -0400 (EDT)\nReceived: from phobos [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor zzzz@localhost (single-drop); Mon, 02 Sep 2002 12:30:08 +0100 (IST)\nReceived: from webnote.net (mail.webnote.net [193.120.211.219]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7UL4uZ08225 for    <zzzz-risks@jmason.org>; Fri, 30 Aug 2002 22:04:57 +0100\nReceived: from tinycomp    (StyleZice@public1-seve2-6-cust192.walt.broadband.ntl.com [80.1.156.192])    by webnote.net (8.9.3/8.9.3) with SMTP id WAA15316 for    <zzzz-risks@jmason.org>; Fri, 30 Aug 2002 22:05:11 +0100\nMessage-Id: <200208302105.WAA15316@webnote.net>\nFrom: Support Engineers <info@qpas.co.uk>\nTo: zzzz-risks@jmason.org\nSubject: UK's Leading PC Specialist\nMIME-Version: 1.0\nContent-Type: text/plain; charset=\"iso-8859-1\"\nDate: Sat, 29 Jun 2002 22:02:47 -0000",
+    "subject": "UK's Leading PC Specialist",
+    "body": "Nationwide PC Repairs and Upgrades\n*No call out charges.\n*No hourly charges.\n*Picked up from your home and returned safely anywhere in the UK.\n*Diagnosed and repaired by certified engineer\n*We will meet and beat any price\nFor more information click on the link below;\n",
+    "urls": [
+        "http://www.qpas.co.uk/pcclinic.htm"
+    ]
+}

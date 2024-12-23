@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 9839116F7B\tfor <jm@localhost>; Sat,  5 Oct 2002 10:36:42 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Sat, 05 Oct 2002 10:36:42 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9580tK02603 for    <jm@jmason.org>; Sat, 5 Oct 2002 09:00:55 +0100\nMessage-Id: <200210050800.g9580tK02603@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: newscientist <rssfeeds@example.com>\nSubject: West Nile virus transmitted in breast milk\nDate: Sat, 05 Oct 2002 08:00:55 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-855.0 required=5.0\ttests=AWL,T_NONSENSE_FROM_40_50\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "West Nile virus transmitted in breast milk",
+    "body": "URL: \nDate: Not supplied\nViral antibodies are identified in a one-month-old baby, as the US death toll \nrises sharply\n",
+    "urls": [
+        "http://www.newsisfree.com/click/-5,8553538,1440/"
+    ]
+}

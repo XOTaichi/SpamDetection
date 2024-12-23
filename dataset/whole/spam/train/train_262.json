@@ -1,0 +1,6 @@
+{
+    "headers": "Return-Path: <debt_collectors@ns1.chmailnet.com>\nDelivered-To: zzzz@localhost.jmason.org\nReceived: from localhost (jalapeno [127.0.0.1])\tby zzzzason.org (Postfix) with ESMTP id A839D16F03\tfor <zzzz@localhost>; Fri, 20 Sep 2002 11:41:26 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor zzzz@localhost (single-drop); Fri, 20 Sep 2002 11:41:26 +0100 (IST)\nReceived: from webnote.net (mail.webnote.net [193.120.211.219]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8K8r6C29440 for    <zzzz@jmason.org>; Fri, 20 Sep 2002 09:53:06 +0100\nReceived: from jag2.sus.edu (suswall.sus.edu [192.195.100.102]) by    webnote.net (8.9.3/8.9.3) with ESMTP id JAA04768 for <zzzz@example.com>;    Fri, 20 Sep 2002 09:53:37 +0100\nMessage-Id: <200209200853.JAA04768@webnote.net>\nReceived: from plain (suswall.sus.edu [10.20.1.2]) by jag2.sus.edu with    SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21) id    T10WVDTZ; Fri, 20 Sep 2002 01:01:33 -0500\nFrom: zzzz@netscape.net\nReply-To: debt_collectors@ns1.chmailnet.com\nTo: zzzz@netscape.net\nSubject: Collect Your Money! Time:1:30:33 AM\nDate: Fri, 20 Sep 2002 01:30:33 -0000\nMIME-Version: 1.0\nContent-Type: text/plain; charset=\"DEFAULT\"",
+    "subject": "Collect Your Money! Time:1:30:33 AM",
+    "body": "",
+    "urls": []
+}

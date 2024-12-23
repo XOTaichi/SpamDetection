@@ -1,0 +1,11 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 4AA7E16F7B\tfor <jm@localhost>; Wed,  9 Oct 2002 10:52:10 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Wed, 09 Oct 2002 10:52:10 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9980YK25181 for    <jm@jmason.org>; Wed, 9 Oct 2002 09:00:34 +0100\nMessage-Id: <200210090800.g9980YK25181@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: boingboing <rssfeeds@example.com>\nSubject: Live forever or die trying\nDate: Wed, 09 Oct 2002 08:00:34 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-991.6 required=5.0\ttests=AWL,T_NONSENSE_FROM_40_50\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Live forever or die trying",
+    "body": "URL: \nDate: Not supplied\nNew Scientist is throwing a scavenger hunt with two prizes: \"Live forever\" and \nget a gift certificate good for cryonic freezing or \"Live now\" and take a \nluxury trip to Hawai'i. Link[1] Discuss[2] (_Thanks, Jens[3]!_)\n[1] \n[2] \n[3] \n",
+    "urls": [
+        "http://boingboing.net/#85541007",
+        "http://www.newscientist.com/competition/",
+        "http://www.quicktopic.com/boing/H/hyPgygjHPrevU",
+        "http://www.nosenseofplace.com"
+    ]
+}

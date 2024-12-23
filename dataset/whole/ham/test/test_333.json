@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: skip@pobox.com\nDelivery-Date: Mon Sep  9 20:35:04 2002\nFrom: skip@pobox.com\nDate: Mon, 09 Sep 2002 14:35:04 -0500\nSubject: [Spambayes] deleting \"duplicate\" spam before training?  good idea        orbad?\nIn-Reply-To: <20020909192542.GB2002@cthulhu.gerg.ca>\nReferences: <15740.52432.861148.597750@12-248-11-90.client.attbi.com>        <LNBBLJKPBEHFEDALKOLCIECKBDAB.tim.one@comcast.net>        <20020909192542.GB2002@cthulhu.gerg.ca>\nMessage-ID: <15740.63464.611324.2220@12-248-11-90.client.attbi.com>",
+    "subject": "[Spambayes] deleting \"duplicate\" spam before training?  good idea        orbad?",
+    "body": "\n Greg> OTOH, look into DCC (Distributed Checksum Clearinghouse,\n Greg> which uses fuzzy\n Greg> checksums. It's quite likely that DCC's checksumming scheme is\n Greg> better than something any of us would throw together for personal\n Greg> use (no offense, Skip!).\nNone taken. I wrote my little script before I was aware DCC existed. Even\nnow, it seems like overkill for my use.\nSkip\n",
+    "urls": [
+        "http://www.rhyolite.com/anti-spam/dcc/),"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 16CB016F85\tfor <jm@localhost>; Sat,  5 Oct 2002 10:36:58 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Sat, 05 Oct 2002 10:36:58 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9580XK02542 for    <jm@jmason.org>; Sat, 5 Oct 2002 09:00:33 +0100\nMessage-Id: <200210050800.g9580XK02542@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: boingboing <rssfeeds@example.com>\nSubject: Data-mine your hard-drive with SixDegrees\nDate: Sat, 05 Oct 2002 08:00:33 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-871.1 required=5.0\ttests=AWL,T_NONSENSE_FROM_40_50\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Data-mine your hard-drive with SixDegrees",
+    "body": "URL: \nDate: Not supplied\nSixDegress is a $99 OS X app that data-mines your own hard-drive and tries to \nbuild links between people, files and folders. Laura Carpenter at the OS X con \nwas talking it up yesterday and it looks way cool -- I've just downloaded the \ndemo to play with. \n * Locate files with similar names or file revisions, anywhere on your \n system.\n * Show all email threads related to any file or person on your desktop.\n * View all the files a person has sent you, regardless of where those files \n are stored on your computer.\n * Create dynamic, self-updating projects.\n * Find misfiles or attachments quickly without searching desktop folders.\n * Navigate and open any message, file or person on your desktop in one \n click. \nLink[1] Discuss[2] (_Thanks, Laura!_)\n[1] \n[2] \n",
+    "urls": [
+        "http://boingboing.net/#85524557",
+        "http://www.creo.com/sixdegrees/",
+        "http://www.quicktopic.com/boing/H/VRMgpHLfGxpZ"
+    ]
+}

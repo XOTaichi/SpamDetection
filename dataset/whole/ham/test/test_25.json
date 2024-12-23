@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 618F716F6B\tfor <jm@localhost>; Thu, 26 Sep 2002 16:42:03 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Thu, 26 Sep 2002 16:42:03 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8QFWJg25139 for    <jm@jmason.org>; Thu, 26 Sep 2002 16:32:19 +0100\nMessage-Id: <200209261532.g8QFWJg25139@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: newscientist <rssfeeds@example.com>\nSubject: US blueprint for smallpox mass-vaccination\nDate: Thu, 26 Sep 2002 15:32:19 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=0.0 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "US blueprint for smallpox mass-vaccination",
+    "body": "URL: \nDate: Not supplied\nDetailed guidelines for vaccinating all 288 million citizens within five days \nof an outbreak are being dispatched to every state\n",
+    "urls": [
+        "http://www.newsisfree.com/click/-1,8171676,1440/"
+    ]
+}

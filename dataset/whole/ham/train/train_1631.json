@@ -1,0 +1,6 @@
+{
+    "headers": "Return-Path: skip@pobox.com\nDelivery-Date: Fri Sep  6 23:39:48 2002\nFrom: skip@pobox.com\nDate: Fri, 06 Sep 2002 17:39:48 -0500\nSubject: [Spambayes] understanding high false negative rate\nIn-Reply-To: <LNBBLJKPBEHFEDALKOLCIEJKBCAB.tim.one@comcast.net>\nReferences: <15737.2576.315460.956295@slothrop.zope.com>        <LNBBLJKPBEHFEDALKOLCIEJKBCAB.tim.one@comcast.net>\nMessage-ID: <15737.11956.18745.619040@12-248-11-90.client.attbi.com>",
+    "subject": "[Spambayes] understanding high false negative rate",
+    "body": "\n >> > ##Remove: jeremy@alum.mit.edu##\n Tim> Yuck: it got two 0.01's from embedding your email address at the\n Tim> bottom here.\nWhich suggests that tagging email addresses in To/CC headers should be\nhandled differently than in message bodies?\nSkip\n",
+    "urls": []
+}

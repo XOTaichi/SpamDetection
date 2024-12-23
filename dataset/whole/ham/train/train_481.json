@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id C0DA416F71\tfor <jm@localhost>; Thu, 26 Sep 2002 16:42:15 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Thu, 26 Sep 2002 16:42:15 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8QFVlg25057 for    <jm@jmason.org>; Thu, 26 Sep 2002 16:31:47 +0100\nMessage-Id: <200209261531.g8QFVlg25057@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: zawodny <rssfeeds@example.com>\nSubject: I have the power!\nDate: Thu, 26 Sep 2002 15:31:47 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=0.0 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "I have the power!",
+    "body": "URL: \nDate: 2002-09-25T22:21:15-08:00\nSo, I called the power company promptly at 8am to find out what they were \nsmoking. The allowed me to pay by credit card so that I could get reactivated \ntoday (and pay a $40 \"reconnection fee\" for the privilege)....\n",
+    "urls": [
+        "http://jeremy.zawodny.com/blog/archives/000190.html"
+    ]
+}

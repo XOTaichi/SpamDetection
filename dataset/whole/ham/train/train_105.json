@@ -1,0 +1,6 @@
+{
+    "headers": "Return-Path: skip@pobox.com\nDelivery-Date: Mon Sep  9 15:11:16 2002\nFrom: skip@pobox.com\nDate: Mon, 09 Sep 2002 09:11:16 -0500\nSubject: [Spambayes] spambayes package?\nIn-Reply-To: <20020909131606.GA1136@cthulhu.gerg.ca>\nReferences: <15738.34711.467756.145336@12-248-11-90.client.attbi.com>        <200209080247.g882lNt17033@pcp02138704pcs.reston01.va.comcast.net>        <20020909131606.GA1136@cthulhu.gerg.ca>\nMessage-ID: <15740.44036.651321.285627@12-248-11-90.client.attbi.com>",
+    "subject": "[Spambayes] spambayes package?",
+    "body": "\n >> If and when we package this, perhaps we should use Barry's trick ...\n Greg> It's not a *trick*! It just requires this\n Greg> package_dir = {'spambayes': '.'}\n Greg> in the setup script.\nThat has the nasty side effect of placing all .py files in the package.\nWhat about obvious executable scripts (like timtest or hammie)? How can I\nkeep them out of the package?\nSkip\n",
+    "urls": []
+}

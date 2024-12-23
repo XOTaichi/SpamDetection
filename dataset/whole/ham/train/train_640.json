@@ -1,0 +1,6 @@
+{
+    "headers": "Return-Path: skip@pobox.com\nDelivery-Date: Sat Sep  7 06:40:18 2002\nFrom: skip@pobox.com\nDate: Sat, 07 Sep 2002 00:40:18 -0500\nSubject: [Spambayes] can't write to CVS...\nIn-Reply-To: <LNBBLJKPBEHFEDALKOLCCELKBCAB.tim.one@comcast.net>\nReferences: <15737.35722.956784.600958@12-248-11-90.client.attbi.com>        <LNBBLJKPBEHFEDALKOLCCELKBCAB.tim.one@comcast.net>\nMessage-ID: <15737.37186.513740.936811@12-248-11-90.client.attbi.com>",
+    "subject": "[Spambayes] can't write to CVS...",
+    "body": "\n Tim> About half the developers on the spambayes project were missing\n Tim> some permission or other, so I ran thru all of them and checked\n Tim> every damned box and clicked on every damn dropdown list I could\n Tim> find. As far as SF is concerned, you're all sitting on God's Right\n Tim> Hand now, so if it still doesn't work I suggest you upgrade to\n Tim> Win98 <wink>.\nTime to upgrade I guess. :-(\n % cvs add unheader.py \n cvs [server aborted]: \"add\" requires write access to the repository\nI'll try a checkout into a new directory...\nS\n",
+    "urls": []
+}

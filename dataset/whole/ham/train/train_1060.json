@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: gward@python.net\nDelivery-Date: Wed Sep 11 13:23:08 2002\nFrom: gward@python.net\nDate: Wed, 11 Sep 2002 08:23:08 -0400\nSubject: [Spambayes] XTreme Training\nIn-Reply-To: <LNBBLJKPBEHFEDALKOLCOEHDBDAB.tim.one@comcast.net>\nReferences: <LNBBLJKPBEHFEDALKOLCKEGPBDAB.tim.one@comcast.net>\t<LNBBLJKPBEHFEDALKOLCOEHDBDAB.tim.one@comcast.net>\nMessage-ID: <20020911122308.GB5866@cthulhu.gerg.ca>",
+    "subject": "[Spambayes] XTreme Training",
+    "body": "On 10 September 2002, Tim Peters said:\n> Why would spam be likely to end up with two instances of Return-Path\n> in the headers?\nPossibly another qmail-ism from Bruce Guenter's spam collection. Or\nmaybe Anthony's right about spammers being stupid and blindly copying\nheaders. (Well, of course he's right about spammers being stupid; it's\njust this particular aspect of stupidity that's open to question.)\n Greg\n-- \nGreg Ward <gward@python.net> \nThink honk if you're a telepath.\n",
+    "urls": [
+        "http://www.gerg.ca/"
+    ]
+}

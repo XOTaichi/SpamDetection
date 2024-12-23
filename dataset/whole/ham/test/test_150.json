@@ -1,0 +1,12 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 1500D16F56\tfor <jm@localhost>; Wed,  9 Oct 2002 10:51:35 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Wed, 09 Oct 2002 10:51:35 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9980FK25143 for    <jm@jmason.org>; Wed, 9 Oct 2002 09:00:15 +0100\nMessage-Id: <200210090800.g9980FK25143@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: diveintomark <rssfeeds@example.com>\nSubject: Movable Type 2.5 is out\nDate: Wed, 09 Oct 2002 08:00:15 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-1024.8 required=5.0\ttests=AWL,T_NONSENSE_FROM_40_50\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Movable Type 2.5 is out",
+    "body": "URL: \nDate: 2002-10-08T20:52:08-05:00\nMovable Type 2.5 is out. I'm running it and it appears to work. It incorporates \nmany suggestions from Dive Into Accessibility[1], a book which was written in \nand is still powered by Movable Type. I find this amusing in a self-referential \nsort of way. \nThe other big change is the inclusion of MT-search to allow users to have their \nown site search. Every web site needs a site search[2]. Existing MT-search \nusers should merge the contents of mt-search.cfg into mt.cfg, change \n\"TemplateDir\" to \"SearchTemplatePath\", and (if you use alternate templates) \nchange \"AltTemplate1\", \"AltTemplate2\", \"AltTemplate3\", etc. to \"AltTemplate\". \nThey should all just be \"AltTemplate\". \n- Download MT 2.5[3]. \n- MT 2.5 changelog[4]. \n[1] \n[2] day_29_making_everything_searchable.html\n[3] \n[4] (2002.10.08)\n",
+    "urls": [
+        "http://diveintomark.org/archives/2002/10/08.html#movable_type_25_is_out",
+        "http://diveintoaccessibility.org/",
+        "http://diveintoaccessibility.org/day_29_making_everything_searchable.html",
+        "http://www.movabletype.org/25/",
+        "http://www.movabletype.org/docs/mtchanges.html#2.5"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 92DEE16F7A\tfor <jm@localhost>; Sun,  6 Oct 2002 22:53:04 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Sun, 06 Oct 2002 22:53:04 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9680ZK15233 for    <jm@jmason.org>; Sun, 6 Oct 2002 09:00:35 +0100\nMessage-Id: <200210060800.g9680ZK15233@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: guardian <rssfeeds@example.com>\nSubject: Bin Laden is still alive, reveals spy phone satellite\nDate: Sun, 06 Oct 2002 08:00:35 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-903.0 required=5.0\ttests=AWL,DATE_IN_PAST_12_24,T_NONSENSE_FROM_40_50\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Bin Laden is still alive, reveals spy phone satellite",
+    "body": "URL: \nDate: 2002-10-06T02:28:03+01:00\n*World latest: *Osama bin Laden is alive and regularly meeting Mullah Omar, the \nfugitive leader of the Taliban, according to a telephone call intercepted by \nAmerican spy satellites.\n",
+    "urls": [
+        "http://www.newsisfree.com/click/-0,8597652,215/"
+    ]
+}

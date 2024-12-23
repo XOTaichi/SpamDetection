@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 1D3A716F70\tfor <jm@localhost>; Thu, 26 Sep 2002 16:42:13 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Thu, 26 Sep 2002 16:42:13 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8QFWQg25151 for    <jm@jmason.org>; Thu, 26 Sep 2002 16:32:26 +0100\nMessage-Id: <200209261532.g8QFWQg25151@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: newscientist <rssfeeds@example.com>\nSubject: Radio gives mighty roar to quiet cars\nDate: Thu, 26 Sep 2002 15:32:26 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=0.0 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Radio gives mighty roar to quiet cars",
+    "body": "URL: \nDate: Not supplied\nA patented system allows drivers of hushed modern vehicles to enjoy the throaty \nengine sounds of classic cars, all in synch with your driving\n",
+    "urls": [
+        "http://www.newsisfree.com/click/-6,8106968,1440/"
+    ]
+}

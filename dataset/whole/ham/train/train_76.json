@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 7280016F1C\tfor <jm@localhost>; Thu, 26 Sep 2002 16:41:42 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Thu, 26 Sep 2002 16:41:42 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8QFWHg25131 for    <jm@jmason.org>; Thu, 26 Sep 2002 16:32:17 +0100\nMessage-Id: <200209261532.g8QFWHg25131@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: newscientist <rssfeeds@example.com>\nSubject: Human-chimp DNA difference trebled\nDate: Thu, 26 Sep 2002 15:32:17 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=0.0 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Human-chimp DNA difference trebled",
+    "body": "URL: \nDate: Not supplied\nWe are more unique than previously thought, according to new comparisons with \nthe genetic code of our closest relatives\n",
+    "urls": [
+        "http://www.newsisfree.com/click/-2,8182249,1440/"
+    ]
+}

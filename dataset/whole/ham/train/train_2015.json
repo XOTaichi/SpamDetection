@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 6C8AD16F79\tfor <jm@localhost>; Mon,  7 Oct 2002 12:03:59 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Mon, 07 Oct 2002 12:03:59 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9780eK23245 for    <jm@jmason.org>; Mon, 7 Oct 2002 09:00:40 +0100\nMessage-Id: <200210070800.g9780eK23245@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: gamasutra <rssfeeds@example.com>\nSubject: Shooting from the Hip: An Interview with Hip Tanaka\nDate: Mon, 07 Oct 2002 08:00:39 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-933.6 required=5.0\ttests=AWL,T_NONSENSE_FROM_40_50\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Shooting from the Hip: An Interview with Hip Tanaka",
+    "body": "URL: \nDate: 2002-10-06T18:12:58+01:00\nIn 1986, we in the U.S. were playing the Nintendo Entertainment System (known \nas the Famicom in Japan), and roughly a third of the music for its first set of \ngames was written by Hirokazu \"Hip\" Tanaka, then with Nintendo Co. Ltd.He has \nwritten music for countless other games as well as designing the Game Boy \nCamera and Printer, and also scored the soundtrack to the Pokemon TV series. \nAlexander Brandon catches up with the legendary composer.\n",
+    "urls": [
+        "http://www.newsisfree.com/click/-0,8613662,159/"
+    ]
+}

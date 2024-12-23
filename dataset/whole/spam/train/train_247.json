@@ -1,0 +1,16 @@
+{
+    "headers": "Return-Path: <iman@s3.serveimage.com>\nDelivered-To: zzzz@localhost.example.com\nReceived: from localhost (localhost [127.0.0.1])\tby phobos.labs.example.com (Postfix) with ESMTP id 8D25743F99\tfor <zzzz@localhost>; Wed, 28 Aug 2002 05:42:48 -0400 (EDT)\nReceived: from mail.webnote.net [193.120.211.219]\tby localhost with POP3 (fetchmail-5.9.0)\tfor zzzz@localhost (single-drop); Wed, 28 Aug 2002 10:42:48 +0100 (IST)\nReceived: from email.qves.com (email5.qves.net [209.63.151.251] (may be forged))\tby webnote.net (8.9.3/8.9.3) with ESMTP id TAA00664\tfor <zzzz@example.com>; Tue, 27 Aug 2002 19:49:07 +0100\nReceived: from qvp0088 ([169.254.6.9]) by email.qves.com with Microsoft SMTPSVC(5.0.2195.2966);\t Tue, 27 Aug 2002 12:48:32 -0600\nFrom: How Slim <iman@s3.serveimage.com>\nTo: zzzz@example.com\nSubject: Guaranteed to lose 10-12 lbs in 30 days with Slim Patch                    10.24\nDate: Tue, 27 Aug 2002 12:48:30 -0600\nMessage-ID: <26b38101c24dfa$5616c210$0906fea9@freeyankeedom.com>\nMIME-Version: 1.0\nX-Mailer: Microsoft CDO for Windows 2000\nThread-Index: AcJN+lYWUyKm4vmETZ2VOerlXqe6pw==\nContent-Class: urn:content-classes:message\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2462.0000\nX-OriginalArrivalTime: 27 Aug 2002 18:48:32.0427 (UTC) FILETIME=[577567B0:01C24DFA]\nContent-Type: multipart/alternative; boundary=\"----=_NextPart_000_26B382_01C24DC8.0B7C5210\"",
+    "subject": "Guaranteed to lose 10-12 lbs in 30 days with Slim Patch                    10.24",
+    "body": "1) Join the Web's Hottest & Fastest Growing Community\nIt Is So Hot! <> \n2) Guaranteed to lose 10-12 lbs in 30 days\nSlim Patch - Weight Loss Patches\n<> \n3) Get the Child Support You Deserve\nFree Legal Advice <> \nHave a Wonderful Day, \nOffer Manager\n <> \n<html>\n<body bgcolor=\"#FFFFFF\" text=\"#000000\">\n1) Join the Web's Hottest & Fastest Growing Community<br>\n <a href=\"\" target=\"_blank\">It Is \n So Hot!</a><br>\n <br>\n 2) Guaranteed to lose 10-12 lbs in 30 days<br>\n <a href=\"\" target=\"_blank\">Slim \n Patch - Weight Loss Patches</a><br>\n <br>\n 3) Get the Child Support You Deserve<br>\n <a href=\"\" target=\"_blank\">Free \n Legal Advice</a><br>\n<br>\n Have a Wonderful Day, <br>\n Offer Manager<br>\n<br><br><br><br><br><br><br><br><br><br><center><a href=\"\"><img border=\"0\" src=\"\"></a></center></body>\n</html>\n",
+    "urls": [
+        "http://www.adclick.ws/p.cfm?o=259&s=pk007",
+        "http://www.adclick.ws/p.cfm?o=249&s=pk007",
+        "http://www.adclick.ws/p.cfm?o=245&s=pk002",
+        "http://www.qves.com/trim/?zzzz@example.com%7C17%7C308417",
+        "http://www.adclick.ws/p.cfm?o=259&s=pk007",
+        "http://www.adclick.ws/p.cfm?o=249&s=pk007",
+        "http://www.adclick.ws/p.cfm?o=245&s=pk002",
+        "http://www.qves.com/trim/?zzzz@example.com%7C17%7C308417",
+        "http://209.63.151.9/trim/?17%7C308236%7C6645"
+    ]
+}

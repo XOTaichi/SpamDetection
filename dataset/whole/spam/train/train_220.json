@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <havoc1006@yahoo.com>\nDelivered-To: zzzz@localhost.example.com\nReceived: from localhost (localhost [127.0.0.1])\tby phobos.labs.example.com (Postfix) with ESMTP id C444147C66\tfor <zzzz@localhost>; Mon, 26 Aug 2002 10:42:09 -0400 (EDT)\nReceived: from phobos [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor zzzz@localhost (single-drop); Mon, 26 Aug 2002 15:42:09 +0100 (IST)\nReceived: from email (adsl-66-73-8-232.dsl.sfldmi.ameritech.net    [66.73.8.232]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id    g7PLOoZ27015 for <fma@zzzzason.org>; Sun, 25 Aug 2002 22:24:51 +0100\nReceived: from Sender ([66.73.8.232]) by email with Microsoft    SMTPSVC(5.0.2172.1); Sun, 25 Aug 2002 17:17:12 -0400\nFrom: market <havoc1006@yahoo.com>\nTo: <>\nSubject: Email Marketing\nX-Mailer: The Bat! (v1.52f) Business\nMIME-Version: 1.0\nContent-Type: text/plain; charset=\"koi8-r\"\nDate: Sun, 25 Aug 2002 17:17:12 -0400\nMessage-Id: <R-NZR6ZB03TD2DR6pkN00000008@email>\nX-Originalarrivaltime: 25 Aug 2002 21:17:12.0312 (UTC) FILETIME=[C74C5780:01C24C7C]",
+    "subject": "Email Marketing",
+    "body": "Email marketing works! There's no way around it.\nNo other medium let's you share your offer with more \npeople for less than the cost of a small classified ad.\nGet access to our targeted email list exchange where \nour members can exchange their old targeted email lists for new ones.\nGet access to over 1 million fresh general emails every week.\nWe offer all the services above for free.\nBuyers are out there, marketing is the key.\nSignup today at \nLimited membership\nThis is a one time message, you will not be emailed again.\n",
+    "urls": [
+        "http://68.62.73.31"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "headers": "Return-Path: marklists@mceahern.com\nDelivery-Date: Mon Sep  9 17:26:51 2002\nFrom: marklists@mceahern.com\nDate: Mon, 09 Sep 2002 11:26:51 -0500\nSubject: [Spambayes] spambayes package?\nIn-Reply-To: <15740.44036.651321.285627@12-248-11-90.client.attbi.com>\nMessage-ID: <JHEOKEOOLIGLDHCMAHMOGEGJDNAA.marklists@mceahern.com>",
+    "subject": "[Spambayes] spambayes package?",
+    "body": "[Skip Montanaro]\n> That has the nasty side effect of placing all .py files in the package.\n> What about obvious executable scripts (like timtest or hammie)? How can I\n> keep them out of the package?\nPut them in a scripts folder?\n// m\n-\n",
+    "urls": []
+}

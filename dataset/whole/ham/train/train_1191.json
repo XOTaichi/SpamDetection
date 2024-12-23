@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 350E716F03\tfor <jm@localhost>; Mon, 30 Sep 2002 13:36:43 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Mon, 30 Sep 2002 13:36:43 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8T81Hg03426 for    <jm@jmason.org>; Sun, 29 Sep 2002 09:01:17 +0100\nMessage-Id: <200209290801.g8T81Hg03426@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: gamasutra <rssfeeds@example.com>\nSubject: Blair attacks new culture of cynicism\nDate: Sun, 29 Sep 2002 08:01:16 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nLines: 6\nX-Spam-Status: No, hits=-492.7 required=5.0\ttests=AWL,T_URI_COUNT_0_1\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Blair attacks new culture of cynicism",
+    "body": "URL: \nDate: 2002-09-29T01:41:02+01:00\nPM rules out compromise on public service reform in hard-hitting pre-conference \ninterview.\n",
+    "urls": [
+        "http://www.newsisfree.com/click/-0,8358764,215/"
+    ]
+}

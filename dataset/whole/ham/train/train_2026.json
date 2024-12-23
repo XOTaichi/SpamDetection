@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 8B4D716F16\tfor <jm@localhost>; Wed,  2 Oct 2002 11:43:58 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Wed, 02 Oct 2002 11:43:58 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g92838K31832 for    <jm@jmason.org>; Wed, 2 Oct 2002 09:03:08 +0100\nMessage-Id: <200210020803.g92838K31832@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: newscientist <rssfeeds@example.com>\nSubject: New P2P network funded by US government\nDate: Wed, 02 Oct 2002 08:03:08 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-695.2 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "New P2P network funded by US government",
+    "body": "URL: \nDate: Not supplied\nThe new network aims to thwart hackers and beat technical problems that make \nsuch networks slow or unreliable\n",
+    "urls": [
+        "http://www.newsisfree.com/click/-2,8437307,1440/"
+    ]
+}

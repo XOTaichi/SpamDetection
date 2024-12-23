@@ -1,0 +1,6 @@
+{
+    "headers": "Return-Path: tim.one@comcast.net\nDelivery-Date: Thu Sep 12 01:37:13 2002\nFrom: tim.one@comcast.net\nDate: Wed, 11 Sep 2002 20:37:13 -0400\nSubject: [Spambayes] stack.pop() ate my multipart message\nIn-Reply-To: <w53znup6ly2.fsf@woozle.org>\nMessage-ID: <LNBBLJKPBEHFEDALKOLCCEJDBDAB.tim.one@comcast.net>",
+    "subject": "[Spambayes] stack.pop() ate my multipart message",
+    "body": "[Neale Pickett]\n> And then, just as I was about to fall asleep, I figured it out. The\n> tokenizer now has an extra [:], and all is well. I feel like a real\n> chawbacon for not realizing this earlier. :*)\nGood eye, Neale! Thanks for the fix.\n> Blaming it on staying up past bedtime,\nBlame it on Barry. I do <wink>.\n",
+    "urls": []
+}

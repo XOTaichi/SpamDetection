@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: guido@python.org\nDelivery-Date: Mon Sep  9 16:22:52 2002\nFrom: guido@python.org\nDate: Mon, 09 Sep 2002 11:22:52 -0400\nSubject: [Spambayes] spambayes package?\nIn-Reply-To: Your message of \"Mon, 09 Sep 2002 09:11:16 CDT.\"             <15740.44036.651321.285627@12-248-11-90.client.attbi.com> \nReferences: <15738.34711.467756.145336@12-248-11-90.client.attbi.com>\t<200209080247.g882lNt17033@pcp02138704pcs.reston01.va.comcast.net>\t<20020909131606.GA1136@cthulhu.gerg.ca>  \t<15740.44036.651321.285627@12-248-11-90.client.attbi.com> \nMessage-ID: <200209091522.g89FMqL29316@pcp02138704pcs.reston01.va.comcast.net>",
+    "subject": "[Spambayes] spambayes package?",
+    "body": "> That has the nasty side effect of placing all .py files in the\n> package. What about obvious executable scripts (like timtest or\n> hammie)? How can I keep them out of the package?\nWhy would we care about installing a few extra files, as long as\nthey're inside a package?\n--Guido van Rossum (home page: \n",
+    "urls": [
+        "http://www.python.org/~guido/)"
+    ]
+}

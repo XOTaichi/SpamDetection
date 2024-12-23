@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <info@smokesdirect.com>\nDelivered-To: zzzz@localhost.example.com\nReceived: from localhost (localhost [127.0.0.1])\tby phobos.labs.example.com (Postfix) with ESMTP id DD0E44416B\tfor <zzzz@localhost>; Mon, 26 Aug 2002 10:13:02 -0400 (EDT)\nReceived: from mail.webnote.net [193.120.211.219]\tby localhost with POP3 (fetchmail-5.9.0)\tfor zzzz@localhost (single-drop); Mon, 26 Aug 2002 15:13:02 +0100 (IST)\nReceived: from linux.local ([213.9.248.151])\tby webnote.net (8.9.3/8.9.3) with SMTP id SAA22481\tfor <zzzz@example.com>; Sun, 25 Aug 2002 18:24:54 +0100\nMessage-Id: <200208251724.SAA22481@webnote.net>\nReceived: (qmail 21857 invoked from network); 25 Aug 2002 17:02:55 -0000\nReceived: from unknown (HELO h) (192.168.0.2)  by linux.local with SMTP; 25 Aug 2002 17:02:55 -0000\nFrom: Sales Department <info@smokesdirect.com>\nSubject: Cheap Fags\nTo: zzzz@example.com\nSender: Sales Department <info@smokesdirect.com>\nReply-To: info@smokesdirect.com\nDate: Sun, 25 Aug 2002 19:08:37 +0200\nX-Priority: 3\nX-Library: Indy 8.0.25",
+    "subject": "Cheap Fags",
+    "body": "Dear Sir / Madam\nIf you are fed up of being 'ripped off' by the British government every time you buy your tobacco, then you should visit our website, where you can now buy 4 cartons of cigarettes, or 40 pouches of rolling tobacco from as little as 170 Euros (approx 105 pounds), inclusive of delivery by registered air mail from our office in Spain. \nWhy pay more???\nVisit our website at\nBest regards\nSales Department\nSmokes Direct\nSpain\nxay2158961y\n",
+    "urls": [
+        "http://www.smokesdirect.com/?ID=2"
+    ]
+}

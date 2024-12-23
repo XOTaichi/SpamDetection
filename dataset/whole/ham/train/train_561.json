@@ -1,0 +1,11 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 187F016F16\tfor <jm@localhost>; Wed,  2 Oct 2002 11:44:38 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Wed, 02 Oct 2002 11:44:38 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9281LK31730 for    <jm@jmason.org>; Wed, 2 Oct 2002 09:01:21 +0100\nMessage-Id: <200210020801.g9281LK31730@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: boingboing <rssfeeds@example.com>\nSubject: Distributed.net cracks the RC5-64 cipher\nDate: Wed, 02 Oct 2002 08:01:20 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-721.2 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Distributed.net cracks the RC5-64 cipher",
+    "body": "URL: \nDate: Not supplied\nThe Distributed.net project -- a precursor to SETI@Home that used volunteer \ncomputer-time to attack giant, sophisticated ciphers -- has cracked RC564. I \nused to have half a dozen computers working on this. \n On 14-Jul-2002, a relatively characterless PIII-450 in Tokyo returned the \n winning key to the distributed.net keyservers. The key 0x63DE7DC154F4D039 \n produces the plaintext output: \n The unknown message is: some things are better left unread \n Unfortunately, due to breakage in scripts (dbaker's fault, naturally) on \n the keymaster, this successful submission was not automatically detected. \n It sat undiscovered until 12-Aug-2002. The key was immediately submitted to \n RSA Labs and was verified as the winning key. \nLink[1] Discuss[2] (_Thanks, Dave[3]!_)\n[1] \n[2] \n[3] \n",
+    "urls": [
+        "http://boingboing.net/#85512053",
+        "http://www.distributed.net/pressroom/news-20020926.html",
+        "http://www.quicktopic.com/boing/H/wf6mvUdf3xfR",
+        "http://www.seizethedave.com/"
+    ]
+}

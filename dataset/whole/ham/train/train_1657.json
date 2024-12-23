@@ -1,0 +1,11 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id DEB9D16F03\tfor <jm@localhost>; Thu, 26 Sep 2002 11:03:06 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Thu, 26 Sep 2002 11:03:06 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8Q81SC06436 for    <jm@jmason.org>; Thu, 26 Sep 2002 09:01:28 +0100\nMessage-Id: <200209260801.g8Q81SC06436@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: scripting <rssfeeds@example.com>\nSubject: [IMG: http://radio.weblogs.com/0001015/images/2002/09/25/uncSamMedium.gif    (\nDate: Thu, 26 Sep 2002 08:01:27 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=0.0 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "[IMG: http://radio.weblogs.com/0001015/images/2002/09/25/uncSamMedium.gif    (",
+    "body": "URL: \nDate: Wed, 25 Sep 2002 12:39:47 GMT\n[IMG: (A \npicture named uncSamMedium.gif)][1]Last year on this day[2]: \"It's been \nnot-correct for most of my life for Americans to say we love our country. \nThat's a big bug. We're the world's greatest country and we know it. I love the \nUSA. It gave me life, an education, role models and a philosophy. And if you \nthink we're stupid or decadent, just try fucking with us.\"\n[1] \n[2] \n",
+    "urls": [
+        "http://scriptingnews.userland.com/backissues/2002/09/25#When:5:39:47AM",
+        "http://radio.weblogs.com/0001015/images/2002/09/25/uncSamMedium.gif",
+        "http://www.scripting.com/images/2001/09/22/uncleSam.jpg",
+        "http://scriptingnews.userland.com/backissues/2001/09/25#bushAndTheDoves"
+    ]
+}

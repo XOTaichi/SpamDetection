@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: zzzz@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby example.com (Postfix) with ESMTP id 1F65B16F17\tfor <zzzz@localhost>; Tue,  8 Oct 2002 10:56:15 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor zzzz@localhost (single-drop); Tue, 08 Oct 2002 10:56:15 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9881MK06181 for    <zzzz@example.com>; Tue, 8 Oct 2002 09:01:22 +0100\nMessage-Id: <200210080801.g9881MK06181@dogma.slashnull.org>\nTo: zzzz@example.com\nFrom: newscientist <rssfeeds@example.com>\nSubject: Human handshake opens data stream\nDate: Tue, 08 Oct 2002 08:01:22 -0000\nContent-Type: text/plain; encoding=\"utf-8\"",
+    "subject": "Human handshake opens data stream",
+    "body": "URL: \nDate: Not supplied\nA new Japanese system allows palmtop computers to swap large amounts of data \nwhen their owners shake hands\n",
+    "urls": [
+        "http://www.newsisfree.com/click/-1,8639021,1440/"
+    ]
+}

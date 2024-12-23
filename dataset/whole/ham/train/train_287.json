@@ -1,0 +1,10 @@
+{
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 9169916F03\tfor <jm@localhost>; Tue, 24 Sep 2002 10:47:22 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Tue, 24 Sep 2002 10:47:22 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8O802C26518 for    <jm@jmason.org>; Tue, 24 Sep 2002 09:00:02 +0100\nMessage-Id: <200209240800.g8O802C26518@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: diveintomark <rssfeeds@example.com>\nSubject: New toys\nDate: Tue, 24 Sep 2002 08:00:02 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=0.0 required=5.0\ttests=none\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "New toys",
+    "body": "URL: \nDate: 2002-09-23T16:50:42-05:00\n_Shelley Powers_: &#8220;I thought the stuff this weekend on FOAF was a joke[1]\n&#8212;a bunch of people playing with new toys. ... How does FOAF aid \naggregation? The author is included with each bit. Why do we need extraneous \nmaterial such as college, and who the author knows?&#8221; \n_Seth Russell_: &#8220;For example I wanted to know who _you_ were[2]. Only \nthing I had was your posts to this list. So i found \"burningbird.net\" in your \nemail address ... then i did a lot of reading over there. Still don't really \nknow who your are and what you are into, what projects you are working on, who \nyou know, and why you came here to run your mouth. But if there were a foaf \nbutton on the feed from this channel, well I just click on that and i'm totally \ninto your stuff.&#8221;\n[1] \n[2] \n",
+    "urls": [
+        "http://diveintomark.org/archives/2002/09/23.html#new_toys",
+        "http://groups.yahoo.com/group/rss-dev/message/3981",
+        "http://groups.yahoo.com/group/rss-dev/message/3982"
+    ]
+}

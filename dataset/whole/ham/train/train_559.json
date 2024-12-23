@@ -1,0 +1,6 @@
+{
+    "headers": "Return-Path: skip@pobox.com\nDelivery-Date: Sun Sep  8 00:11:19 2002\nFrom: skip@pobox.com\nDate: Sat, 07 Sep 2002 18:11:19 -0500\nSubject: [Spambayes] spambayes package?\nMessage-ID: <15738.34711.467756.145336@12-248-11-90.client.attbi.com>",
+    "subject": "[Spambayes] spambayes package?",
+    "body": "Before we get too far down this road, what do people think of creating a\nspambayes package containing classifier and tokenizer? This is just to\nminimize clutter in site-packages.\nSkip\n",
+    "urls": []
+}

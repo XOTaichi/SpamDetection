@@ -1,0 +1,9 @@
+{
+    "headers": "Return-Path: gward@python.net\nDelivery-Date: Mon Sep  9 20:25:42 2002\nFrom: gward@python.net\nDate: Mon, 09 Sep 2002 15:25:42 -0400\nSubject: [Spambayes] deleting \"duplicate\" spam before training?  good idea\torbad?\nIn-Reply-To: <LNBBLJKPBEHFEDALKOLCIECKBDAB.tim.one@comcast.net>\nReferences: <15740.52432.861148.597750@12-248-11-90.client.attbi.com>\t<LNBBLJKPBEHFEDALKOLCIECKBDAB.tim.one@comcast.net>\nMessage-ID: <20020909192542.GB2002@cthulhu.gerg.ca>",
+    "subject": "[Spambayes] deleting \"duplicate\" spam before training?  good idea\torbad?",
+    "body": "On 09 September 2002, Tim Peters said:\n> > Would people be interested in the script? I'd be happy to extricate\n> > it from my local modules and check it into CVS.\n> \n> Sure! I think it's relevant, but maybe for another purpose. Paul Svensson\n> is thinking harder about real people <wink> than the rest of us, and he may\n> be able to get use out of approaches that identify closely related spam.\n> For example, some amount of spam is going to end up in the ham training data\n> in real life use, and any sort of similarity score to a piece of known spam\n> may be an aid in finding and purging it.\nOTOH, look into DCC (Distributed Checksum Clearinghouse,\n which uses fuzzy checksums.\nIt's quite likely that DCC's checksumming scheme is better than\nsomething any of us would throw together for personal use (no offense,\nSkip!). But I have no personal experience of it.\n Greg\n-- \nGreg Ward <gward@python.net> \nIf it can't be expressed in figures, it is not science--it is opinion.\n",
+    "urls": [
+        "http://www.rhyolite.com/anti-spam/dcc/),",
+        "http://www.gerg.ca/"
+    ]
+}

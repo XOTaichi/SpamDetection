@@ -1,0 +1,6 @@
+{
+    "headers": "Return-Path: tim.one@comcast.net\nDelivery-Date: Mon Sep  9 03:16:18 2002\nFrom: tim.one@comcast.net\nDate: Sun, 08 Sep 2002 22:16:18 -0400\nSubject: [Spambayes] Ditching WordInfo\nIn-Reply-To: <LNBBLJKPBEHFEDALKOLCCEPNBCAB.tim.one@comcast.net>\nMessage-ID: <LNBBLJKPBEHFEDALKOLCIEAHBDAB.tim.one@comcast.net>",
+    "subject": "[Spambayes] Ditching WordInfo",
+    "body": "[Tim]\n> ...\n> On my box the current system scores about 50 msgs per second (starting\n> in memory, of course).\nThat was a guess. Bothering to get a clock out, it was more like 80 per\nsecond. See? A 60% speedup without changing a thing <wink>.\n",
+    "urls": []
+}

@@ -1,0 +1,8 @@
+{
+    "headers": "Return-Path: bkc@murkworks.com\nDelivery-Date: Fri Sep  6 15:39:48 2002\nFrom: bkc@murkworks.com\nDate: Fri, 06 Sep 2002 10:39:48 -0400\nSubject: [Spambayes] Deployment\nIn-Reply-To: <200209061431.g86EVM114413@pcp02138704pcs.reston01.va.comcast.net>\nMessage-ID: <3D788653.9143.1D8992DA@localhost>",
+    "subject": "[Spambayes] Deployment",
+    "body": "On 6 Sep 2002 at 10:31, Guido van Rossum wrote:\n> your mail, and gives you only the non-spam. To train it, you'd only need\n> to send it the false negatives somehow; it can assume that anything is\n> ham that you don't say is spam within 48 hours.\nI have folks who leave their email programs running 24 hours a day, constantly polling \nfor mail. If they go away for a long weekend, lots of \"friday night spam\" will become \nham on sunday night. (Friday night seems to be the most popular time)\n> - Your idea here.\nUltimately I'd like to see tight integration into the \"most popular email clients\".. As a \nstop-gap to the auto-ham ..\nHow about adding an IMAP server with a spam and deleted-ham folder. Most email \nclients can handle IMAP. Users should be able to quickly move \"spam\" into the spam \nfolder. \nInstead of deleting messages (or, by reprogramming the delete function) they can \nquickly move ham into the ham folder.\nIn either case, the message would be processed and then destroyed.\nBrad Clements, bkc@murkworks.com (315)268-1000\n (315)268-9812 Fax\nAOL-IM: BKClements\n",
+    "urls": [
+        "http://www.murkworks.com"
+    ]
+}

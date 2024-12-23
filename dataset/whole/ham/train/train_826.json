@@ -1,0 +1,6 @@
+{
+    "headers": "Return-Path: neale@woozle.org\nDelivery-Date: Wed Sep 11 08:10:29 2002\nFrom: neale@woozle.org\nDate: Wed, 11 Sep 2002 00:10:29 -0700\nSubject: [Spambayes] stack.pop() ate my multipart message\nIn-Reply-To: <w53lm6985vn.fsf@woozle.org>\nReferences: <w53lm6985vn.fsf@woozle.org>\nMessage-ID: <w53znup6ly2.fsf@woozle.org>",
+    "subject": "[Spambayes] stack.pop() ate my multipart message",
+    "body": "So then, Neale Pickett <neale@woozle.org> is all like:\n> Maybe there's some subtle interaction between generators and lists\n> that I can't understand. Or something. Being as I'm baffled, I don't\n> imagine any theory I come up with will be anywhere close to reality.\nAnd then, just as I was about to fall asleep, I figured it out. The\ntokenizer now has an extra [:], and all is well. I feel like a real\nchawbacon for not realizing this earlier. :*)\nBlaming it on staying up past bedtime,\nNeale\n",
+    "urls": []
+}
