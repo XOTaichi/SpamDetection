@@ -1,12 +1,8 @@
 {
-    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id F1FC616F7B\tfor <jm@localhost>; Sun,  6 Oct 2002 22:53:05 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Sun, 06 Oct 2002 22:53:05 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9680FK15212 for    <jm@jmason.org>; Sun, 6 Oct 2002 09:00:15 +0100\nMessage-Id: <200210060800.g9680FK15212@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: boingboing <rssfeeds@example.com>\nSubject: Pix from Austin\nDate: Sun, 06 Oct 2002 08:00:15 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-904.3 required=5.0\ttests=AWL,DATE_IN_PAST_12_24,T_NONSENSE_FROM_40_50\tversion=2.50-cvs\nX-Spam-Level: ",
-    "subject": "Pix from Austin",
-    "body": "URL: \nDate: Not supplied\n[IMG: Jon Lebkowsky has posted a \nlittle gallery of pictures from my EFF-Austin talk at ACTLab at the University \nof Texas (and a couple shots from the kick-ass BBQ we ate beforehand, note the \nAtkins-compliant lunch). I had a fantastic time there -- thanks to the \norganizers and especially to Jon for putting it together. It's was especially \ngreat to meeet the Boing Boing readers who came out to the talk! Link[1] \nDiscuss[2] (_Thanks, John[3]!_) \n[1] \n[2] \n[3] \n",
+    "headers": "Return-Path: guido@python.org\nDelivery-Date: Sat Sep  7 04:51:12 2002\nFrom: guido@python.org\nDate: Fri, 06 Sep 2002 23:51:12 -0400\nSubject: [Spambayes] hammie.py vs. GBayes.py\nMessage-ID: <200209070351.g873pC613144@pcp02138704pcs.reston01.va.comcast.net>",
+    "subject": "[Spambayes] hammie.py vs. GBayes.py",
+    "body": "There seem to be two \"drivers\" for the classifier now: Neale Pickett's\nhammie.py, and the original GBayes.py. According to the README.txt,\nGBayes.py hasn't been kept up to date. Is there anything in there\nthat isn't covered by hammie.py? About the only useful feature of\nGBayes.py that hammie.py doesn't (yet) copy is -u, which calculates\nspamness for an entire mailbox. This feature can easily be copied\ninto hammie.py. (GBayes.py also has a large collection of tokenizers;\nbut timtoken.py rules, so I'm not sure how interesting that is now.)\nTherefore I propose to nuke GBayes.py, after adding a -u feature.\nAnyone against? (I imagine that Skip or Barry might have a stake in\nGBayes.py; Tim seems to have moved all code he's working to other\nmodules.)\n--Guido van Rossum (home page: \n",
     "urls": [
-        "http://boingboing.net/#85528531",
-        "http://www.craphound.com/images/actlab.jpg]",
-        "http://www.eff-austin.org/cory/",
-        "http://www.quicktopic.com/boing/H/GkMGdXswsP7",
-        "http://www.weblogsky.com/"
+        "http://www.python.org/~guido/)"
     ]
 }

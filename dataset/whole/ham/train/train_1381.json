@@ -1,8 +1,8 @@
 {
-    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id E9F9B16F16\tfor <jm@localhost>; Thu,  3 Oct 2002 12:23:27 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Thu, 03 Oct 2002 12:23:27 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9382BK20031 for    <jm@jmason.org>; Thu, 3 Oct 2002 09:02:11 +0100\nMessage-Id: <200210030802.g9382BK20031@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: guardian <rssfeeds@example.com>\nSubject: Enron finance chief is handcuffed\nDate: Thu, 03 Oct 2002 08:02:11 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-747.0 required=5.0\ttests=AWL,DATE_IN_PAST_03_06\tversion=2.50-cvs\nX-Spam-Level: ",
-    "subject": "Enron finance chief is handcuffed",
-    "body": "URL: \nDate: 2002-10-03T04:21:00+01:00\n*Business:* Federal prosecutors in the US have filed charges against the \nhighest ranking Enron executive yet.\n",
+    "headers": "Return-Path: guido@python.org\nDelivery-Date: Fri Sep  6 20:24:38 2002\nFrom: guido@python.org\nDate: Fri, 06 Sep 2002 15:24:38 -0400\nSubject: [Spambayes] Deployment\nIn-Reply-To: Your message of \"Fri, 06 Sep 2002 15:24:15 EDT.\"             <LNBBLJKPBEHFEDALKOLCIEJABCAB.tim.one@comcast.net> \nReferences: <LNBBLJKPBEHFEDALKOLCIEJABCAB.tim.one@comcast.net> \nMessage-ID: <200209061924.g86JOc516514@pcp02138704pcs.reston01.va.comcast.net>",
+    "subject": "[Spambayes] Deployment",
+    "body": "> > - A program that acts both as a pop client and a pop server. You\n> > configure it by telling it about your real pop servers. You then\n> > point your mail reader to the pop server at localhost. When it\n> > receives a connection, it connects to the remote pop servers, reads\n> > your mail, and gives you only the non-spam.\n> \n> FYI, I'll never trust such a scheme: I have no tolerance for false\n> positives, and indeed do nothing to try to block spam on any of my email\n> accounts now for that reason. Deliver all suspected spam to a Spam folder\n> instead and I'd love it.\nAnother config parameter.\nThe filter could add a header file. Or a ~ to the subject if you like\nthat style. :-)\n--Guido van Rossum (home page: \n",
     "urls": [
-        "http://www.newsisfree.com/click/215,7,215/"
+        "http://www.python.org/~guido/)"
     ]
 }

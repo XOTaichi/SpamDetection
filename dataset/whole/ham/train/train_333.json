@@ -1,8 +1,8 @@
 {
-    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 0C90316F7D\tfor <jm@localhost>; Sun,  6 Oct 2002 22:53:09 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Sun, 06 Oct 2002 22:53:09 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9680ZK15239 for    <jm@jmason.org>; Sun, 6 Oct 2002 09:00:35 +0100\nMessage-Id: <200210060800.g9680ZK15239@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: guardian <rssfeeds@example.com>\nSubject: Seaman recalled for Euro campaign\nDate: Sun, 06 Oct 2002 08:00:35 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-906.9 required=5.0\ttests=AWL,DATE_IN_PAST_12_24,T_NONSENSE_FROM_40_50\tversion=2.50-cvs\nX-Spam-Level: ",
-    "subject": "Seaman recalled for Euro campaign",
-    "body": "URL: \nDate: 2002-10-06T02:28:01+01:00\n*Football: *David Seaman to carry on as England goalkeeper when their European \nChampionship qualifying programme begins in Slovakia on Saturday.\n",
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 78C3516F03\tfor <jm@localhost>; Mon, 30 Sep 2002 13:37:50 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Mon, 30 Sep 2002 13:37:50 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8T81Hg03431 for    <jm@jmason.org>; Sun, 29 Sep 2002 09:01:17 +0100\nMessage-Id: <200209290801.g8T81Hg03431@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: gamasutra <rssfeeds@example.com>\nSubject: The Ryder Cup\nDate: Sun, 29 Sep 2002 08:01:17 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nLines: 6\nX-Spam-Status: No, hits=-515.5 required=5.0\ttests=AWL,DATE_IN_PAST_24_48,T_URI_COUNT_0_1\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "The Ryder Cup",
+    "body": "URL: \nDate: 2002-09-28T23:38:59+01:00\n*Dan Rookwood* and *Lawrence Booth* on how Europe and the United States ended \nall-square to set up a tense final day.\n",
     "urls": [
-        "http://www.newsisfree.com/click/-0,8597654,215/"
+        "http://www.newsisfree.com/click/-6,8355996,215/"
     ]
 }

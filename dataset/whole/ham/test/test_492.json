@@ -1,8 +1,6 @@
 {
-    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 1B14916F18\tfor <jm@localhost>; Tue,  1 Oct 2002 10:36:52 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Tue, 01 Oct 2002 10:36:52 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g91814K15535 for    <jm@jmason.org>; Tue, 1 Oct 2002 09:01:04 +0100\nMessage-Id: <200210010801.g91814K15535@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: fark <rssfeeds@example.com>\nSubject: Man tries to bungee from bridge to passing cruise ship, bashes    his melon on ship's tennis court\nDate: Tue, 01 Oct 2002 08:01:04 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-614.7 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
-    "subject": "Man tries to bungee from bridge to passing cruise ship, bashes    his melon on ship's tennis court",
-    "body": "URL: \nDate: 2002-10-01T07:33:14+01:00\n(abc.net.au)\n",
-    "urls": [
-        "http://www.newsisfree.com/click/-2,8421992,1717/"
-    ]
+    "headers": "Return-Path: anthony@interlink.com.au\nDelivery-Date: Fri Sep  6 09:11:50 2002\nFrom: anthony@interlink.com.au\nDate: Fri, 06 Sep 2002 18:11:50 +1000\nSubject: [Spambayes] test sets? \nIn-Reply-To: <200209060759.g867xcV03853@localhost.localdomain> \nMessage-ID: <200209060811.g868Bo904031@localhost.localdomain>",
+    "subject": "[Spambayes] test sets? ",
+    "body": "\n>>> Anthony Baxter wrote\n> I'm currently mangling it by feeding all parts (text, html, whatever \n> else :) into the filters, as well as both a selected number of headers \n> (to, from, content-type, x-mailer), and also a list of \n> (header,count_of_header). This is showing up some nice stuff - e.g. the \n> X-uidl that stoopid spammers blindly copy into their messages.\nThe other thing on my todo list (probably tonight's tram ride home) is\nto add all headers from non-text parts of multipart messages. If nothing\nelse, it'll pick up most virus email real quick.\n-- \nAnthony Baxter <anthony@interlink.com.au> \nIt's never too late to have a happy childhood.\n",
+    "urls": []
 }

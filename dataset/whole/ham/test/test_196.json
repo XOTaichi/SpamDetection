@@ -1,10 +1,9 @@
 {
-    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 3591916F22\tfor <jm@localhost>; Thu,  3 Oct 2002 12:23:22 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Thu, 03 Oct 2002 12:23:22 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9380wK19952 for    <jm@jmason.org>; Thu, 3 Oct 2002 09:00:58 +0100\nMessage-Id: <200210030800.g9380wK19952@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: boingboing <rssfeeds@example.com>\nSubject: NYT discovers Linux in late 2002\nDate: Thu, 03 Oct 2002 08:00:58 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-741.6 required=5.0\ttests=AWL,DATE_IN_PAST_03_06\tversion=2.50-cvs\nX-Spam-Level: ",
-    "subject": "NYT discovers Linux in late 2002",
-    "body": "URL: \nDate: Not supplied\nNYT op-ed piece about this newfangled OS called Linux and how it is developed \nusing something called the \"open source\" method. This is the paper to go to for \nbreaking news, folks. Link[1] Discuss[2] _(Thanks, Dave!)_\n[1] \n[2] \n",
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 5343816F1B\tfor <jm@localhost>; Tue,  1 Oct 2002 10:36:32 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Tue, 01 Oct 2002 10:36:32 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g91806K15328 for    <jm@jmason.org>; Tue, 1 Oct 2002 09:00:06 +0100\nMessage-Id: <200210010800.g91806K15328@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: diveintomark <rssfeeds@example.com>\nSubject: Wedding etiquette\nDate: Tue, 01 Oct 2002 08:00:06 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-597.8 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Wedding etiquette",
+    "body": "URL: \nDate: 2002-09-30T12:16:54-05:00\n_Margaret Berry_: Don't Be Rude: Part IV, Weddings[1]. &#8220;There's a lot of \nroom for error with invitations. It's helpful to think of them as petite social \nlandmines with quaint wax seals.&#8221;\n[1] \n",
     "urls": [
-        "http://boingboing.net/#85518715",
-        "http://www.nytimes.com/2002/09/18/opinion/18WED2.html",
-        "http://www.quicktopic.com/16/H/VgggkvaadJKnu"
+        "http://diveintomark.org/archives/2002/09/30.html#wedding_etiquette",
+        "http://www.themorningnews.org/archives/editorial/dont_be_rude_part_iv_weddings.shtml"
     ]
 }

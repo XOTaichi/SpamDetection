@@ -1,10 +1,9 @@
 {
-    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 252D416F03\tfor <jm@localhost>; Thu, 26 Sep 2002 11:02:57 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Thu, 26 Sep 2002 11:02:57 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8Q81QC06423 for    <jm@jmason.org>; Thu, 26 Sep 2002 09:01:26 +0100\nMessage-Id: <200209260801.g8Q81QC06423@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: scripting <rssfeeds@example.com>\nSubject: Ken Dow reports that the current version of OmniOutliner can read    and write\nDate: Thu, 26 Sep 2002 08:01:26 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=0.0 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
-    "subject": "Ken Dow reports that the current version of OmniOutliner can read    and write",
-    "body": "URL: \nDate: Wed, 25 Sep 2002 15:47:05 GMT\nKen Dow reports[1] that the current version of OmniOutliner can read and write \nOPML. This means, for example, with a little Radio script (or an AppleScript) \nyou could use Omni as an Instant Outliner[2].\n[1] \n[2] \n",
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 9C78B16F18\tfor <jm@localhost>; Tue,  1 Oct 2002 10:35:51 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Tue, 01 Oct 2002 10:35:51 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g91804K15316 for    <jm@jmason.org>; Tue, 1 Oct 2002 09:00:04 +0100\nMessage-Id: <200210010800.g91804K15316@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: diveintomark <rssfeeds@example.com>\nSubject: Colophon 1\nDate: Tue, 01 Oct 2002 08:00:04 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-561.0 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Colophon 1",
+    "body": "URL: \nDate: 2002-10-01T00:11:05-05:00\n_Jason Gurley_: Rap Sheet[1]. &#8220;I once played drums in a band with no name \nthat never played a single gig anywhere.&#8221;\n[1] \n",
     "urls": [
-        "http://scriptingnews.userland.com/backissues/2002/09/25#When:8:47:05AM",
-        "http://radio.weblogs.com/0001015/images/2002/09/25/omniOutlinerWithOpml.jpg",
-        "http://davenet.userland.com/2002/04/02/jonUdellOnInstantOutlining"
+        "http://diveintomark.org/archives/2002/10/01.html#colophon_1",
+        "http://www.deeplyshallow.com/archive/000426.html"
     ]
 }

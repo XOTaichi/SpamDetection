@@ -1,9 +1,6 @@
 {
-    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id CF28116F17\tfor <jm@localhost>; Tue,  8 Oct 2002 10:56:02 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Tue, 08 Oct 2002 10:56:02 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9880iK06099 for    <jm@jmason.org>; Tue, 8 Oct 2002 09:00:44 +0100\nMessage-Id: <200210080800.g9880iK06099@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: joelonsoftware <rssfeeds@example.com>\nSubject: Delphi Questions, a new _Joel on Software_ discussion group.\nDate: Tue, 08 Oct 2002 08:00:44 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-1004.9 required=5.0\ttests=AWL,T_NONSENSE_FROM_40_50\tversion=2.50-cvs\nX-Spam-Level: ",
-    "subject": "Delphi Questions, a new _Joel on Software_ discussion group.",
-    "body": "URL: \nDate: Not supplied\nDelphi Questions[1], a new _Joel on Software_ discussion group.\n[1] \n",
-    "urls": [
-        "http://www.joelonsoftware.com/news/20021007.html",
-        "http://discuss.fogcreek.com/delphiquestions"
-    ]
+    "headers": "Return-Path: <quinlan@pathname.com>\nDelivered-To: zzzz@localhost.netnoteinc.com\nReceived: from localhost (localhost [127.0.0.1])\tby phobos.labs.netnoteinc.com (Postfix) with ESMTP id D1C5643F99\tfor <zzzz@localhost>; Fri, 23 Aug 2002 06:33:56 -0400 (EDT)\nReceived: from phobos [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor zzzz@localhost (single-drop); Fri, 23 Aug 2002 11:33:56 +0100 (IST)\nReceived: from proton.pathname.com    (adsl-216-103-211-240.dsl.snfc21.pacbell.net [216.103.211.240]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7NAVFZ20272 for    <zzzz@example.com>; Fri, 23 Aug 2002 11:31:15 +0100\nReceived: from quinlan by proton.pathname.com with local (Exim 3.35 #1    (Debian)) id 17iBiq-0005K9-00; Fri, 23 Aug 2002 03:31:20 -0700\nTo: zzzz@example.com, craig@deersoft.com\nSubject: FYI - gone this weekend\nCc: quinlan@pathname.com\nMessage-Id: <E17iBiq-0005K9-00@proton.pathname.com>\nFrom: Daniel Quinlan <quinlan@pathname.com>\nDate: Fri, 23 Aug 2002 03:31:20 -0700",
+    "subject": "FYI - gone this weekend",
+    "body": "I won't be reading email until Sunday night or so. Good luck with\n2.40 and don't do anything I wouldn't do. ;-)\n- Dan\n",
+    "urls": []
 }

@@ -22,7 +22,7 @@ def extract_data(file_path, target_folder):
 # 下载并解压数据集
 url_list = [
     "https://spamassassin.apache.org/old/publiccorpus/20021010_easy_ham.tar.bz2",
-    "https://spamassassin.apache.org/old/publiccorpus/20021010_hard_ham.tar.bz2",
+   # "https://spamassassin.apache.org/old/publiccorpus/20021010_hard_ham.tar.bz2",
     "https://spamassassin.apache.org/old/publiccorpus/20021010_spam.tar.bz2"
 ]
 

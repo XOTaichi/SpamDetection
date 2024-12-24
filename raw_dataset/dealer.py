@@ -168,8 +168,14 @@ def process_email_folder(input_folder, output_train_folder, output_test_folder, 
                 save_as_json(result, output_test_folder, f"test_{idx+1}")
 
 
-input_folder = r"数据集\大作业\大作业\data\spam"
+input_folder = r"raw_dataset\spam"
 output_train_folder = r"dataset\whole\spam\train"
 output_test_folder = r"dataset\whole\spam\test"
+
+process_email_folder(input_folder, output_train_folder, output_test_folder)
+
+input_folder = r"raw_dataset\easy_ham"
+output_train_folder = r"dataset\whole\ham\train"
+output_test_folder = r"dataset\whole\ham\test"
 
 process_email_folder(input_folder, output_train_folder, output_test_folder)

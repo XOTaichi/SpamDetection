@@ -1,9 +1,8 @@
 {
-    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id F183916F03\tfor <jm@localhost>; Wed, 25 Sep 2002 10:23:13 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Wed, 25 Sep 2002 10:23:14 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8P80LC18073 for    <jm@jmason.org>; Wed, 25 Sep 2002 09:00:21 +0100\nMessage-Id: <200209250800.g8P80LC18073@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: scripting <rssfeeds@example.com>\nSubject: News.Com: \"Linux is a serious competitor,\" said Ballmer.\nDate: Wed, 25 Sep 2002 08:00:21 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=0.0 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
-    "subject": "News.Com: \"Linux is a serious competitor,\" said Ballmer.",
-    "body": "URL: \nDate: Tue, 24 Sep 2002 18:41:50 GMT\nNews.Com[1]: \"Linux is a serious competitor,\" said Ballmer.\n[1] \n",
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 9A21D16F16\tfor <jm@localhost>; Tue,  1 Oct 2002 10:36:50 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Tue, 01 Oct 2002 10:36:50 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9181ZK15667 for    <jm@jmason.org>; Tue, 1 Oct 2002 09:01:35 +0100\nMessage-Id: <200210010801.g9181ZK15667@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: gamasutra <rssfeeds@example.com>\nSubject: Cobain dispute settled\nDate: Tue, 01 Oct 2002 08:01:35 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-613.3 required=5.0\ttests=AWL\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Cobain dispute settled",
+    "body": "URL: \nDate: 2002-10-01T04:33:55+01:00\n*Arts:* The long-running dispute between the widow of Kurt Cobain and the \nremaining two members of his band Nirvana has been settled, paving the way for \na new CD.\n",
     "urls": [
-        "http://scriptingnews.userland.com/backissues/2002/09/24#When:11:41:50AM",
-        "http://rss.com.com/2100-1001-959165.html?type=pt&part=rss&tag=feed&subj=news"
+        "http://www.newsisfree.com/click/-2,8418829,215/"
     ]
 }

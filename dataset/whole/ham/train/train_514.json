@@ -1,8 +1,6 @@
 {
-    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 2927B16F03\tfor <jm@localhost>; Tue,  8 Oct 2002 10:56:14 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Tue, 08 Oct 2002 10:56:14 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g98816K06136 for    <jm@jmason.org>; Tue, 8 Oct 2002 09:01:06 +0100\nMessage-Id: <200210080801.g98816K06136@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: guardian <rssfeeds@example.com>\nSubject: Nobel prize for British and US scientists\nDate: Tue, 08 Oct 2002 08:01:06 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-1019.4 required=5.0\ttests=AWL,T_NONSENSE_FROM_40_50\tversion=2.50-cvs\nX-Spam-Level: ",
-    "subject": "Nobel prize for British and US scientists",
-    "body": "URL: \nDate: 2002-10-08T03:30:54+01:00\n*Medicine and health: *The discovery of the myriad little deaths which lead to \nlife brought the most coveted prize in world medicine to two Britons and an \nAmerican yesterday.\n",
-    "urls": [
-        "http://www.newsisfree.com/click/-2,8655712,215/"
-    ]
+    "headers": "Return-Path: skip@pobox.com\nDelivery-Date: Mon Sep  9 15:11:16 2002\nFrom: skip@pobox.com\nDate: Mon, 09 Sep 2002 09:11:16 -0500\nSubject: [Spambayes] spambayes package?\nIn-Reply-To: <20020909131606.GA1136@cthulhu.gerg.ca>\nReferences: <15738.34711.467756.145336@12-248-11-90.client.attbi.com>        <200209080247.g882lNt17033@pcp02138704pcs.reston01.va.comcast.net>        <20020909131606.GA1136@cthulhu.gerg.ca>\nMessage-ID: <15740.44036.651321.285627@12-248-11-90.client.attbi.com>",
+    "subject": "[Spambayes] spambayes package?",
+    "body": "\n >> If and when we package this, perhaps we should use Barry's trick ...\n Greg> It's not a *trick*! It just requires this\n Greg> package_dir = {'spambayes': '.'}\n Greg> in the setup script.\nThat has the nasty side effect of placing all .py files in the package.\nWhat about obvious executable scripts (like timtest or hammie)? How can I\nkeep them out of the package?\nSkip\n",
+    "urls": []
 }

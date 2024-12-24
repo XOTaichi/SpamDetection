@@ -1,6 +1,8 @@
 {
-    "headers": "Return-Path: skip@pobox.com\nDelivery-Date: Sat Sep  7 06:43:31 2002\nFrom: skip@pobox.com\nDate: Sat, 07 Sep 2002 00:43:31 -0500\nSubject: [Spambayes] Maybe change X-Spam-Disposition to something else...\nIn-Reply-To: <w53fzwmbcbq.fsf@woozle.org>\nReferences: <15737.31513.555967.915801@12-248-11-90.client.attbi.com>        <w53fzwmbcbq.fsf@woozle.org>\nMessage-ID: <15737.37379.699338.64767@12-248-11-90.client.attbi.com>",
-    "subject": "[Spambayes] Maybe change X-Spam-Disposition to something else...",
-    "body": "\n >> ... choose something with a different prefix than \"X-Spam-\" so that\n >> people don't confuse it with SpamAssassin ...\n Neale> How about X-Spambayes-Disposition (or X-Hammie-Disposition if\n Neale> there'll be other classifier front-ends)?\nI kinda like \"hammie\". Your front end was there first, so I suspect it will\nrule the front end roost.\nS\n",
-    "urls": []
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 1142016F03\tfor <jm@localhost>; Fri, 27 Sep 2002 10:41:38 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Fri, 27 Sep 2002 10:41:38 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8R81bg00949 for    <jm@jmason.org>; Fri, 27 Sep 2002 09:01:38 +0100\nMessage-Id: <200209270801.g8R81bg00949@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: ask <rssfeeds@example.com>\nSubject: UFOs in the Sky!\nDate: Fri, 27 Sep 2002 08:01:37 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nX-Spam-Status: No, hits=-339.5 required=5.0\ttests=AWL,T_URI_COUNT_0_1\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "UFOs in the Sky!",
+    "body": "URL: \nDate: 2002-09-20T17:10:35-08:00\nYesterday Viridiana came to my place and dragged me out to look at the sky. It \nwas beautiful. Odd colors and light. Obviously we wondered what it was. Today \nJim explains it. (It was a rocket test from the Vandenburg air force base). \nVery neat. It was a bit too blurred out when I saw it, and there was too much \nstreet light to make a good photo, so I am happy to have found the photo from \nNASA...\n",
+    "urls": [
+        "http://www.askbjoernhansen.com/archives/2002/09/20.html"
+    ]
 }

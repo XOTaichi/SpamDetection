@@ -1,9 +1,8 @@
 {
-    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: zzzz@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby example.com (Postfix) with ESMTP id 3CA5F16F16\tfor <zzzz@localhost>; Tue,  8 Oct 2002 10:55:24 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor zzzz@localhost (single-drop); Tue, 08 Oct 2002 10:55:24 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9880AK06028 for    <zzzz@example.com>; Tue, 8 Oct 2002 09:00:10 +0100\nMessage-Id: <200210080800.g9880AK06028@dogma.slashnull.org>\nTo: zzzz@example.com\nFrom: oblomovka <rssfeeds@example.com>\nSubject: At last, I have an excuse\nDate: Tue, 08 Oct 2002 08:00:10 -0000\nContent-Type: text/plain; encoding=\"utf-8\"",
-    "subject": "At last, I have an excuse",
-    "body": "URL: \nDate: 2002-10-07T22:45:00-0700\n... for not updating: I'm doing the guestblog at Boing Boing[1]. Now to find an \nexcuse for missing last week.\n[1] \n",
+    "headers": "Return-Path: <rssfeeds@example.com>\nDelivered-To: yyyy@localhost.example.com\nReceived: from localhost (jalapeno [127.0.0.1])\tby jmason.org (Postfix) with ESMTP id 1BFE116F16\tfor <jm@localhost>; Mon, 30 Sep 2002 13:43:45 +0100 (IST)\nReceived: from jalapeno [127.0.0.1]\tby localhost with IMAP (fetchmail-5.9.0)\tfor jm@localhost (single-drop); Mon, 30 Sep 2002 13:43:45 +0100 (IST)\nReceived: from dogma.slashnull.org (localhost [127.0.0.1]) by    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8U81dg21338 for    <jm@jmason.org>; Mon, 30 Sep 2002 09:01:39 +0100\nMessage-Id: <200209300801.g8U81dg21338@dogma.slashnull.org>\nTo: yyyy@example.com\nFrom: gamasutra <rssfeeds@example.com>\nSubject: Adams linked to IRA death squad\nDate: Mon, 30 Sep 2002 08:01:39 -0000\nContent-Type: text/plain; encoding=\"utf-8\"\nLines: 5\nX-Spam-Status: No, hits=-526.0 required=5.0\ttests=AWL,DATE_IN_PAST_03_06,T_URI_COUNT_0_1\tversion=2.50-cvs\nX-Spam-Level: ",
+    "subject": "Adams linked to IRA death squad",
+    "body": "URL: \nDate: 2002-09-30T03:05:03+01:00\nSinn Fein president accused of setting up IRA cell to kill 'informers'.\n",
     "urls": [
-        "http://www.oblomovka.com/entries/2002/10/07#1034055900",
-        "http://www.boingboing.net/"
+        "http://www.newsisfree.com/click/-1,8381140,215/"
     ]
 }
