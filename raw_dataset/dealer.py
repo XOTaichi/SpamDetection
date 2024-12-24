@@ -169,7 +169,7 @@ def process_email_folder(input_folder, output_train_folder, output_test_folder, 
 
 
 input_folder = r"数据集\大作业\大作业\data\spam"
-output_train_folder = r"SpamDetection\dataset\whole\spam\train"
-output_test_folder = r"SpamDetection\dataset\whole\spam\test"
+output_train_folder = r"dataset\whole\spam\train"
+output_test_folder = r"dataset\whole\spam\test"
 
 process_email_folder(input_folder, output_train_folder, output_test_folder)
