@@ -3,10 +3,10 @@ import pandas as pd
 # Load the datasets
 data2 = pd.read_csv("raw_dataset/data2.csv")
 data3 = pd.read_csv("raw_dataset/data3.csv")
-data4 = pd.read_csv("raw_dataset/data5.csv")
-
+data5 = pd.read_csv("raw_dataset/data5.csv")
+data6 = pd.read_csv("raw_dataset/data6.csv")
 # Combine the datasets
-combined_data = pd.concat([data2, data3, data4], ignore_index=True)
+combined_data = pd.concat([data2, data3, data5, data6], ignore_index=True)
 
 # Ensure the label counts are balanced
 label_0 = combined_data[combined_data['label'] == 0]
