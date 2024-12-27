@@ -3,6 +3,7 @@
     "FP":194,
     "TN":798,
     "FN":609,
+    "Accuracy":0.60,
     "Precision":0.67,
     "Recall":0.40,
     "F1 Score": 0.50

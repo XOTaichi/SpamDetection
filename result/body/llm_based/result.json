@@ -1,9 +1,10 @@
 {
-    "TP":399,
-    "FP":194,
-    "TN":798,
-    "FN":609,
-    "Precision":0.67,
-    "Recall":0.40,
-    "F1 Score": 0.50
+    "TP":1602,
+    "FP":52,
+    "TN":1696,
+    "FN":54,
+    "Accuracy":0.9689,
+    "Precision":0.9686,
+    "Recall":0.9674,
+    "F1 Score": 0.9680
 }
