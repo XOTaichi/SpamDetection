@@ -2,6 +2,7 @@ import csv
 import json
 import logging
 import argparse
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from method.LLM_based.detection.processor import preprocess_email, preprocessURLS, preprocessURLsPlainText
 from method.LLM_based.detection.prompter import classify_email
@@ -81,16 +82,22 @@ def main():
         # 初始化写入器
         outfile.write('')  # 清空文件内容
         
-        with ThreadPoolExecutor(max_workers=30) as executor:
+        with ThreadPoolExecutor(max_workers=15) as executor:
             futures = []
             i = 1
+            start_time = time.time()
             for line in infile:
                 logging.info(f"Task {i} started")
                 futures.append(executor.submit(process_line, i, line, LLM, fieldnames))
                 i += 1
+                # if i >= 10:
+                #     break
 
             # 获取任务结果
             for future in as_completed(futures):
+                end_time = time.time()
+                execution_time = end_time - start_time
+                print(f"程序运行时间：{execution_time}秒")
                 result = future.result()
                 if result:
                     # 将每个任务的结果写入 JSONL 文件
