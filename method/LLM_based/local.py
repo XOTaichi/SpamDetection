@@ -9,8 +9,6 @@ class Local_model:
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.__load_model(model_path=self.model_path)
         self.__load_tokenizer(model_path=self.model_path)
-        
-        super().__init__(model_name)
     
     def get_response(self, user_prompt:Union[str,list]):
         if isinstance(user_prompt,str):
